@@ -48,6 +48,14 @@
 
 ---
 
+## 🤝 Connect
+
+[![Website](https://img.shields.io/badge/Website-asheriff15.github.io-D00000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://asheriff15.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adnan%20Sheriff-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-s-058305439)
+[![Email](https://img.shields.io/badge/Email-adnansheriff.cyber%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnansheriff.cyber@gmail.com)
+
+---
+
 <div align="center">
 
 **Open to cloud, security and DevOps internships for 2027**
